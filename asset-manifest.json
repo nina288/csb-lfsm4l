@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://nina288.github.io/csb-lfsm4l/static/css/main.437ca745.chunk.css",
+    "main.js": "https://nina288.github.io/csb-lfsm4l/static/js/main.6db20e12.chunk.js",
+    "main.js.map": "https://nina288.github.io/csb-lfsm4l/static/js/main.6db20e12.chunk.js.map",
+    "runtime-main.js": "https://nina288.github.io/csb-lfsm4l/static/js/runtime-main.7e9bd581.js",
+    "runtime-main.js.map": "https://nina288.github.io/csb-lfsm4l/static/js/runtime-main.7e9bd581.js.map",
+    "static/js/2.1fd29508.chunk.js": "https://nina288.github.io/csb-lfsm4l/static/js/2.1fd29508.chunk.js",
+    "static/js/2.1fd29508.chunk.js.map": "https://nina288.github.io/csb-lfsm4l/static/js/2.1fd29508.chunk.js.map",
+    "index.html": "https://nina288.github.io/csb-lfsm4l/index.html",
+    "static/css/main.437ca745.chunk.css.map": "https://nina288.github.io/csb-lfsm4l/static/css/main.437ca745.chunk.css.map",
+    "static/js/2.1fd29508.chunk.js.LICENSE.txt": "https://nina288.github.io/csb-lfsm4l/static/js/2.1fd29508.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://nina288.github.io/csb-lfsm4l/static/media/summer.0aaaed82.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e9bd581.js",
+    "static/js/2.1fd29508.chunk.js",
+    "static/css/main.437ca745.chunk.css",
+    "static/js/main.6db20e12.chunk.js"
+  ]
+}
